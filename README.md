@@ -25,9 +25,9 @@ Soy un apasionado estudiante de ingeniería en software con un enfoque en estruc
 
 ### Contacto
 
-- Correo Electrónico: [@gmail.com](mailto:emiperez.dev@gmail.com)
-- LinkedIn: [Tu Nombre en LinkedIn](https://www.linkedin.com/in/EmilianoPerez)
-- GitHub: [Tu Perfil de GitHub](https://github.com/EmilianoPerezDev)
+- Correo Electrónico: [emiperez.dev@gmail.com](mailto:emiperez.dev@gmail.com)
+- LinkedIn: [EmilianoPerez](https://www.linkedin.com/in/EmilianoPerez)
+- GitHub: [EmilianoPerezDev](https://github.com/EmilianoPerezDev)
 
 ¡Gracias por visitar mi perfil!
 
