@@ -1,39 +1,38 @@
 <div id="header" align="center">
     <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-    <h1 align="center">Hola, soy Emiliano Perez Murillo 👋</h1>
-    <h3 align="center">Estudiante de Ingeniería en Software en La Salle Bajío. Apasionado por las estructuras de datos y los algoritmos.</h3>
+    <h1 align="center">Hello, I'm Emiliano Perez Murillo 👋</h1>
+    <h3 align="center">Software Engineering Student at La Salle Bajío. Passionate about data structures and algorithms.</h3>
 </div>
 ---
 
-### 👨‍💻 Información:
+### 👨‍💻 Information:
 
-- 🎂 **Edad:** 20 años
-- 📚 **Carrera:** Estudiante de Ingeniería en Software en Sistemas Computacionales
-- 🏫 **Institución:** La Salle Bajío
-- 📅 **Semestre:** 5to
+- 🎂 **Age:** 20 years old
+- 📚 **Major:** Software Engineering
+- 🏫 **Institution:** La Salle Bajío
+- 📅 **Semester:** 5th
 
-### 🧠 Conocimientos:
+### 🧠 Skills:
 
-- Estructuras de datos lineales y no lineales.
-- Algoritmos.
-- Patrones de diseño comportamentales, estructurales y creacionales.
-- Lenguajes de programación: Java, JavaScript y TypeScript.
+- Linear and non-linear data structures.
+- Search, sorting, and string manipulation algorithms.
+- Dsign patterns: Creationals, Structurals and Behaviorals.
+- Programming languages: Java, JavaScript, and TypeScript.
 
-### 📝 Acerca de mí:
+### 📝 About Me:
 
-Soy un apasionado estudiante de ingeniería en software con un enfoque en estructuras de datos, algoritmos y patrones de diseño. Actualmente, estoy cursando mi quinto semestre en La Salle Bajío y trabajando en mejorar mis habilidades de desarrollo de software.
+I am a passionate software engineering student with a focus on data structures, algorithms, and design patterns. Currently, I am in my fifth semester at La Salle Bajío, working to improve my software development skills.
 
-### Proyectos Destacados:
+### Featured Projects:
 
-- [Proyecto 1](enlace-proyecto-1): Breve descripción del proyecto 1.
-- [Proyecto 2](enlace-proyecto-2): Breve descripción del proyecto 2.
+- [Project 1](project-link-1): Brief description of project 1.
+- [Project 2](project-link-2): Brief description of project 2.
 
-### Contacto:
+### Contact:
 
-- ✉️ Correo Electrónico: [emiperez.dev@gmail.com](mailto:emiperez.dev@gmail.com)
+- ✉️ Email: [emiperez.dev@gmail.com](mailto:emiperez.dev@gmail.com)
 - 💼 LinkedIn: [Emiliano Perez](https://www.linkedin.com/in/emiliano-p%C3%A9rez-247985219/)
 - 📦 GitHub: [EmilianoPerezDev](https://github.com/EmilianoPerezDev)
 
-¡Gracias por visitar mi perfil!
-
+Thanks for visiting my profile!
 
