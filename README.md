@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="URL_DE_TU_IMAGEN" width="200" />
+    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     <h1 align="center">Hola, soy Emiliano Perez Murillo 👋</h1>
     <h3 align="center">Estudiante de Ingeniería en Software en La Salle Bajío. Apasionado por las estructuras de datos y los algoritmos.</h3>
 </div>
