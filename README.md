@@ -32,7 +32,7 @@ I am a passionate software engineering student with a focus on data structures, 
 
 - ✉️ Email: [emiperez.dev@gmail.com](mailto:emiperez.dev@gmail.com)
 - 💼 LinkedIn: [Emiliano Perez](https://www.linkedin.com/in/emiliano-p%C3%A9rez-247985219/)
-- 📦 GitHub: [EmilianoPerezDev](https://github.com/EmilianoPerezDev)
+- 📦 GitHub: [EmilianoPerezDev](https://github.com/emiperezdev)
 
 Thanks for visiting my profile!
 
