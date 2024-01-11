@@ -7,10 +7,10 @@
 
 ### 👨‍💻 Information:
 
-- 🎂 **Age:** 20 years old
+- 🎂 **Age:** 21 years old
 - 📚 **Major:** Software Engineering
 - 🏫 **Institution:** La Salle Bajío
-- 📅 **Semester:** 5th
+- 📅 **Semester:** 6th
 
 ### 🧠 Skills:
 
@@ -21,12 +21,12 @@
 
 ### 📝 About Me:
 
-I am a passionate software engineering student with a focus on data structures, algorithms, and design patterns. Currently, I am in my fifth semester at La Salle Bajío, working to improve my software development skills.
+I am a passionate software engineering student with a focus on data structures, algorithms, and design patterns. Currently, I am in my sixth semester at La Salle Bajío, working to improve my software development skills.
 
 ### Featured Projects:
 
-- [Project 1](project-link-1): Brief description of project 1.
-- [Project 2](project-link-2): Brief description of project 2.
+- [Project 1](https://portfolio-two-henna-11.vercel.app/#experience): Portfolio
+- [Project 2](https://game-hub-five-rouge.vercel.app/): Game searching.
 
 ### Contact:
 
@@ -34,5 +34,5 @@ I am a passionate software engineering student with a focus on data structures, 
 - 💼 LinkedIn: [Emiliano Perez](https://www.linkedin.com/in/emiliano-p%C3%A9rez-247985219/)
 - 📦 GitHub: [EmilianoPerezDev](https://github.com/emiperezdev)
 
-Thanks for visiting my profile!
+
 
