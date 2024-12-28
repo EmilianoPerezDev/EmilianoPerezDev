@@ -7,17 +7,17 @@
 
 ### 👨‍💻 Information:
 
-- 🎂 **Age:** 21 years old
+- 🎂 **Age:** 22 years old
 - 📚 **Major:** Software Engineering
 - 🏫 **Institution:** La Salle Bajío
-- 📅 **Semester:** 6th
+- 📅 **Semester:** 8th
 
 ### 🧠 Skills:
 
 - Linear and non-linear data structures.
 - Search, sorting, and string manipulation algorithms.
 - Dsign patterns: Creationals, Structurals and Behaviorals.
-- Programming languages: Java, JavaScript, and TypeScript.
+- Programming languages: Java, TypeScript, SQL.
 
 ### 📝 About Me:
 
